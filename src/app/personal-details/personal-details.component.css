@@ -1,0 +1,28 @@
+
+.cover_pic{
+    width: 100%;
+    height: 18rem;
+}
+.profile_sec{
+    margin: 3px !important;
+    top: -11rem;
+    position: relative;
+}
+.prof_pic{
+    height: 18rem;
+    width: 18rem;
+    position: relative;
+    left: 65rem;
+    border-radius: 10rem;
+}
+ @media (max-width: 1284px) {
+    .prof_pic{
+        display: block;
+        margin: auto !important;
+        left: auto;
+    }
+  } 
+.profile_intro{
+    position: relative;
+    top: -10rem;
+}
